@@ -9,6 +9,7 @@
 | [0006-zigzag-conversion](https://github.com/aceeejlrz/leetCodes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aceeejlrz/leetCodes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/aceeejlrz/leetCodes/tree/master/0010-regular-expression-matching) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aceeejlrz/leetCodes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Array
 |  |
 | ------- |
@@ -50,11 +51,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aceeejlrz/leetCodes/tree/master/0005-longest-palindromic-substring) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aceeejlrz/leetCodes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aceeejlrz/leetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aceeejlrz/leetCodes/tree/master/0010-regular-expression-matching) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aceeejlrz/leetCodes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
 |  |
 | ------- |
