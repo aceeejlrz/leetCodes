@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/aceeejlrz/leetCodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aceeejlrz/leetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aceeejlrz/leetCodes/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/0053-maximum-subarray) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aceeejlrz/leetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aceeejlrz/leetCodes/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aceeejlrz/leetCodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aceeejlrz/leetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aceeejlrz/leetCodes/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/0053-maximum-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aceeejlrz/leetCodes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aceeejlrz/leetCodes/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
