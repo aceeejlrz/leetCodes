@@ -11,6 +11,7 @@
 | [0010-regular-expression-matching](https://github.com/aceeejlrz/leetCodes/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aceeejlrz/leetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aceeejlrz/leetCodes/tree/master/0013-roman-to-integer) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aceeejlrz/leetCodes/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aceeejlrz/leetCodes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aceeejlrz/leetCodes/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
