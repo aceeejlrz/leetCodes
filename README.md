@@ -21,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aceeejlrz/leetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aceeejlrz/leetCodes/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/0053-maximum-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aceeejlrz/leetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aceeejlrz/leetCodes/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/aceeejlrz/leetCodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aceeejlrz/leetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aceeejlrz/leetCodes/tree/master/0013-roman-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +90,16 @@
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aceeejlrz/leetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aceeejlrz/leetCodes/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
