@@ -25,6 +25,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aceeejlrz/leetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aceeejlrz/leetCodes/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aceeejlrz/leetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aceeejlrz/leetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aceeejlrz/leetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aceeejlrz/leetCodes/tree/master/0013-roman-to-integer) |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aceeejlrz/leetCodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +116,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aceeejlrz/leetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
