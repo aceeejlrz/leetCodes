@@ -47,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/aceeejlrz/leetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aceeejlrz/leetCodes/tree/master/0013-roman-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aceeejlrz/leetCodes/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/aceeejlrz/leetCodes/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aceeejlrz/leetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/aceeejlrz/leetCodes/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/aceeejlrz/leetCodes/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
